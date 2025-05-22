@@ -1,0 +1,1 @@
+To set up the project, start by renaming the .env.example file to .env and adding your database credentials. Then, in the root directory, run npm install followed by npm run start to launch the backend server. After that, navigate to the frontend folder using cd frontend, install dependencies with npm install, and start the frontend using npm start.
